@@ -1,6 +1,6 @@
-
 # Cyber Breach Pulse: Decoding Security Incidents
 ## Interactive Dashboard Link:
+https://app.powerbi.com/view?r=eyJrIjoiOWIyM2UzYTgtOWJhZC00YTk1LTg4NjktYzhmNzZhMjk1MjdiIiwidCI6IjU1YmQ5ZTdkLTdkMWEtNGZlNy1hNmZmLTJhOWY0YzdkZjAxYSJ9
 ## Description:
   This project analyzes cybersecurity breach data to provide actionable insights into incident trends, impact assessment, and risk mitigation strategies. In today's interconnected world, organizations face constant cyber threats, making robust analysis crucial for effective security posture and proactive defense. This analysis offers a realistic view of cybersecurity challenges and potential solutions.
 #  Project Overview:
